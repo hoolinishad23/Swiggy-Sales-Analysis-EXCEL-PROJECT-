@@ -38,5 +38,47 @@ Analyzed restaurant sales data using Excel and Power Query to uncover revenue tr
 * Conditional Formatting
 * Map Visualization
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Preview and Insights
 ![Dashboard Preview](DASHBOARD.png)
+### 📊 Key KPIs
+* Total Sales: ₹53.01M
+* Total Orders: 197.43K
+* Average Rating: 4.34
+* Average Order Value: ₹268.51
+* Total Rating Count: 5.59M
+
+### 📈 Dashboard Features
+1. Sales Trend Analysis
+ * Monthly Sales Trend
+ * Weekly Performance Trend
+ * Day-wise Order Distribution
+ * Quarterly Sales, Ratings & Orders Summary
+2. Category & Food Type Insights
+ * Veg vs Non-Veg Sales Split
+ * Category-wise Performance Filtering
+3. Geographic Analysis
+ * State-wise Sales Map (India)
+ * Top 5 Cities by Sales:
+   * Bengaluru
+   * Hyderabad
+   * Lucknow
+   * Mumbai
+   * New Delhi
+4. Interactive Filters (Slicers)
+ * Month
+ * Category
+ * Restaurant Name
+
+### 💡 Key Insights
+* Bengaluru contributes the highest revenue.
+* Veg sales dominate overall food type performance.
+* Sales peak during weekends (especially Saturday).
+* Q2 shows the strongest quarterly performance.
+* Ratings remain consistent across quarters (4.34 average).
+
+## 🚀 What This Project Demonstrates
+* Strong Excel dashboarding capability
+* Business-oriented KPI thinking
+* Ability to convert raw data into insights
+* Practical data cleaning using Power Query
+* Professional dashboard layout and storytelling

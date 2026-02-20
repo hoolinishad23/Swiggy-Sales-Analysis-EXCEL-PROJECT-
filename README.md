@@ -39,4 +39,4 @@ Analyzed restaurant sales data using Excel and Power Query to uncover revenue tr
 * Map Visualization
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](DASHBOARD.png)
